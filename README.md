@@ -15,7 +15,7 @@
    - Save: Save to local drive.
 
 ## Thanks to  
-> JACINTO WONG for this [oraiginal project](https://github.com/JacintoDesign/paint-clone).
+> JACINTO WONG for this [original project](https://github.com/JacintoDesign/paint-clone).
 
 > EAST DESIRE for super simple color picker plugin [jscolor](https://github.com/EastDesire/jscolor)
 
