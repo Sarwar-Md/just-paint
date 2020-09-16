@@ -1,5 +1,5 @@
 `Just Paint` is a very basic browser drived (HTML Canvas) paint app.
-# [Demo](#)
+# [Demo](https://sarwar-md.github.io/just-paint/)
 ## Tools >
    - Brush:  Tools to draw on canvas.
    - Bucket: Change canvas background color.
