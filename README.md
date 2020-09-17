@@ -1,7 +1,7 @@
 ![](icons/just-paint.jpg)
 
 `Just Paint` is a very basic browser drived (HTML Canvas) paint app.
-# [Demo](#)
+# [Demo](https://sarwar-md.github.io/just-paint/)
 ## Tools >
    - Brush:  Tools to draw on canvas.
    - Bucket: Change canvas background color.
@@ -17,7 +17,7 @@
    - Save: Save to local drive.
 
 ## Thanks to  
-> JACINTO WONG for this [oraiginal project](https://github.com/JacintoDesign/paint-clone).
+> JACINTO WONG for this [original project](https://github.com/JacintoDesign/paint-clone).
 
 > EAST DESIRE for super simple color picker plugin [jscolor](https://github.com/EastDesire/jscolor)
 
