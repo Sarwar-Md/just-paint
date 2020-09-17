@@ -1,4 +1,4 @@
-![](icons/just-paint.jpg)
+![](just-paint.jpg)
 
 `Just Paint` is a very basic browser drived (HTML Canvas) paint app.
 # [Demo](https://sarwar-md.github.io/just-paint/)
